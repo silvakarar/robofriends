@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.975b72a8.chunk.css",
-    "main.js": "/static/js/main.9d9c56f6.chunk.js",
-    "main.js.map": "/static/js/main.9d9c56f6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c4c35e14.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c4c35e14.js.map",
-    "static/js/2.6a0be7ab.chunk.js": "/static/js/2.6a0be7ab.chunk.js",
-    "static/js/2.6a0be7ab.chunk.js.map": "/static/js/2.6a0be7ab.chunk.js.map",
-    "static/js/3.7a7a40ad.chunk.js": "/static/js/3.7a7a40ad.chunk.js",
-    "static/js/3.7a7a40ad.chunk.js.map": "/static/js/3.7a7a40ad.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.975b72a8.chunk.css.map": "/static/css/main.975b72a8.chunk.css.map",
-    "static/js/2.6a0be7ab.chunk.js.LICENSE.txt": "/static/js/2.6a0be7ab.chunk.js.LICENSE.txt"
+    "main.css": "/silvakarar.github.io/robofriends/static/css/main.975b72a8.chunk.css",
+    "main.js": "/silvakarar.github.io/robofriends/static/js/main.9d9c56f6.chunk.js",
+    "main.js.map": "/silvakarar.github.io/robofriends/static/js/main.9d9c56f6.chunk.js.map",
+    "runtime-main.js": "/silvakarar.github.io/robofriends/static/js/runtime-main.472823dc.js",
+    "runtime-main.js.map": "/silvakarar.github.io/robofriends/static/js/runtime-main.472823dc.js.map",
+    "static/js/2.6a0be7ab.chunk.js": "/silvakarar.github.io/robofriends/static/js/2.6a0be7ab.chunk.js",
+    "static/js/2.6a0be7ab.chunk.js.map": "/silvakarar.github.io/robofriends/static/js/2.6a0be7ab.chunk.js.map",
+    "static/js/3.7a7a40ad.chunk.js": "/silvakarar.github.io/robofriends/static/js/3.7a7a40ad.chunk.js",
+    "static/js/3.7a7a40ad.chunk.js.map": "/silvakarar.github.io/robofriends/static/js/3.7a7a40ad.chunk.js.map",
+    "index.html": "/silvakarar.github.io/robofriends/index.html",
+    "static/css/main.975b72a8.chunk.css.map": "/silvakarar.github.io/robofriends/static/css/main.975b72a8.chunk.css.map",
+    "static/js/2.6a0be7ab.chunk.js.LICENSE.txt": "/silvakarar.github.io/robofriends/static/js/2.6a0be7ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4c35e14.js",
+    "static/js/runtime-main.472823dc.js",
     "static/js/2.6a0be7ab.chunk.js",
     "static/css/main.975b72a8.chunk.css",
     "static/js/main.9d9c56f6.chunk.js"
